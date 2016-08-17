@@ -1,7 +1,7 @@
 # aiohttp-seoul-2016
-Slides for PyCon Korea 2016
+Slides for SE2016
 
 
-Open http://asvetlov.github.io/aiohttp-seoul/
+Open http://asvetlov.github.io/aiohttp-kiev-2016/
 
 
